@@ -1,0 +1,13 @@
+
+#grid-container{
+    display: grid;
+    margin: 1% 25% 0% 25%;
+   
+}
+.grid-row{
+   
+}
+
+.col{
+    /* width: 32%; */
+}
